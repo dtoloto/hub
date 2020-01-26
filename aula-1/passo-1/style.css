@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+}
+
+#titulo-1{
+  color: red;
+}
+
+div{
+  background-color: blue;
+  margin: 20px 40px 60px 100px;
+  padding: 40px 20px;
+}
+
+.roxo{
+  background-color: blueviolet;
+}
+
+.branco{
+  color: #fff;
+}
+
+.negrito{
+  font-weight: bold;
+}
+
+#paragrafo-1{
+  background-color: orange;
+  color: blue;
+}
